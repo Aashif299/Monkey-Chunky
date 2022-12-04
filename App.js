@@ -28,7 +28,7 @@ export default class App extends React.Component {
           backgroundColor={'#9c8210'}
           centerComponent={{
             text: 'Monkey Chunky',
-            style: { color: '#fff', fontSize: 20 },
+            style: { color: '#6d2014', fontSize: 20 },
           }}
         />
 
@@ -78,7 +78,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#b8b8b8',
+    backgroundColor: '#b7b8b8',
   },
   inputBox: {
     marginTop: 50,
